@@ -1,4 +1,4 @@
-# Netflix Data Analysis Project
+# Netflix Data Analysis Project using MS SQL Server
 ![Netflix Analysis](https://github.com/adham-labeb/NETFLIX-Dataset-analysis-using-MS-SQL-Server/blob/main/logo.png)
 
 This project involves importing and analyzing Netflix data from a CSV file using SQL on Microsoft SQL Server. 
