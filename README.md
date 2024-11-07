@@ -205,15 +205,12 @@ ORDER BY category;
 ## Requirements
 Microsoft SQL Server
 A CSV file containing Netflix data, formatted as netflix_titles.csv
+<br></br>
 
-```
-```
 ## Conclusion
 This project provides a range of SQL queries to analyze Netflix content.
 It includes categorizing data by type, duration, director, actor, and genre, as well as identifying trends in release years, countries, and content ratings.
 By running these queries, we gain insights into the distribution and characteristics of Netflix’s catalog.
-
-```
-```
+<br></br>
 ## Author
 Adham Mohammed Mohammed Labeb
